@@ -24,6 +24,8 @@ const env = loadEnv("", process.cwd())
 const hostname: string = env.VITE_HOSTNAME || "http://localhost:4173"
 
 export default defineConfig({
+	base: "/libresudoku-website/",
+	ignoreDeadLinks: true,
 	outDir: "../dist",
 	lastUpdated: true,
 	cleanUrls: true,
