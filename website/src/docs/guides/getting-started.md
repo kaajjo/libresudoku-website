@@ -31,9 +31,9 @@ Once **LibreSudoku** is installed on your device, you can enable automatic backu
 1. Choose any folder you want and press "**Use this folder**".
 1. You can change the frequency of automatic backups.
 
-![Installing extensions](/docs/guides/getting-started/set_automatic_backups-light.webp#light =414x245)
+![Automatic backups](/docs/guides/getting-started/set_automatic_backups-light.webp#light =414x245)
 
-![Installing extensions](/docs/guides/getting-started/set_automatic_backups-dark.webp#dark =414x245)
+![Automatic backups](/docs/guides/getting-started/set_automatic_backups-dark.webp#dark =414x245)
 
 
 > Relevant guide: [Automatic Backups](/docs/guides/automatic-backups)
